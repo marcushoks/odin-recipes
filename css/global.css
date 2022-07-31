@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(40, 40, 40);
+  color: aliceblue;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+h2,
+p {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+header,
+ul,
+ol {
+  border: 2px solid plum;
+}
+
+header {
+  padding: 1em;
+}
+
+li {
+  margin: 1em;
+  font-family: "Courier New", Courier, monospace;
+}
