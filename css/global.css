@@ -26,3 +26,8 @@ li {
   margin: 1em;
   font-family: "Courier New", Courier, monospace;
 }
+
+img {
+  height: 300px;
+  width: auto;
+}
